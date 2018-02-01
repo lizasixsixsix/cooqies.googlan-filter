@@ -9,7 +9,7 @@ namespace cooqies.googlan_filter.Controllers
         [HttpGet]
         public IHttpActionResult Index()
         {
-            return Ok("Google Analytics is watching you.");
+            return Ok("Aggrerator.");
         }
     }
 }

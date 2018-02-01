@@ -7,7 +7,7 @@ namespace cooqies.googlan_filter.Filters
         Inherited = true, AllowMultiple = true)]
     public class GooglAnFilterAttribute : ActionTrackingAttribute
     {
-        public GooglAnFilterAttribute() : base("UA-113333252-1")
+        public GooglAnFilterAttribute() : base("UA-113406072-1")
         { }
     }
 }
